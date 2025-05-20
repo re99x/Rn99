@@ -23,3 +23,5 @@ cara menggunakan :
 
 note : pastikan tidak menggunakan private dns di jaringanmu, jika tidak mau tools error
 
+Default program ini adalah facebook, anda dapat mengubahnya sesuai dengan sosial media yang dimau
+
